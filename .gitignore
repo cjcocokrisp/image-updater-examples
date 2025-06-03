@@ -26,3 +26,6 @@ go.work.sum
 
 # IDE settings
 .idea
+
+# image-updater binary
+argocd-image-updater
