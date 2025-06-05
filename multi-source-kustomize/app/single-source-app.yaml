@@ -15,7 +15,7 @@ spec:
     namespace: argocd
   project: default
   source:
-      repoURL: https://github.com/chengfang/image-updater-examples.git
+      repoURL: https://github.com/cjcocokrisp/image-updater-examples.git
       targetRevision: main
       path: multi-source-kustomize/source1
   syncPolicy:
